@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (WGU_C867_ROSTER.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  networkStudent.cpp
+  roster.cpp
+  securityStudent.cpp
+  softwareStudent.cpp
+  student.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 176 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  WGU_C867_ROSTER.vcxproj -> C:\Users\remin\Desktop\Projects\StudentDataMigration\WGU_C867_PROJECT\Release\ROSTER.exe
